@@ -4,6 +4,8 @@
 
 Visual Studio Windows 에서 사용되는 Visual Assist 와 유사하게 작동되는 테마입니다.
 
+코드를 더 가독성있게 만들어줍니다.
+
 Visual Studio for Mac 을 위해 사용됩니다.
 
 ## 적용방법
